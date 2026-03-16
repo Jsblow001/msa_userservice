@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_IMAGE = "redblow01/msa_userservice"
-        SERVER_IP = "52.79.54.193"
+        SERVER_IP = "52.78.86.172"
         CONTAINER_NAME = "msa_userservice"
     }
 
